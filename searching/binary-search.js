@@ -28,7 +28,10 @@ let target = 12;
 const resultIndex = binarySearchIterative(nums, target);
 console.log("Target value found at index:", resultIndex);
 
-
+ 
 
 //   [1,2,3,4,5]
 //    S   M   E
+
+// Time Complexity:  O(n)
+// Space Complexity: O(1)
